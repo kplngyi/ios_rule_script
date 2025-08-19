@@ -7,6 +7,8 @@
 # TOTAL: 229
 payload:
   - DOMAIN,scholar.google.com
+  - DOMAIN-SUFFIX,scholar.googleusercontent.com # 下载/缓存域名，常用
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,1lib.cloud
   - DOMAIN-SUFFIX,1lib.domains
   - DOMAIN-SUFFIX,1lib.education
