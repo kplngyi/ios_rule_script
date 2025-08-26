@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:08:25
+# UPDATED: 2025-08-24 02:07:56
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 119095
+# DOMAIN-SUFFIX: 119089
 # IP-CIDR: 11
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 119247
+# TOTAL: 119241
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -39708,7 +39708,6 @@ DOMAIN-SUFFIX,furenkeji.com
 DOMAIN-SUFFIX,furielec.com
 DOMAIN-SUFFIX,furniture-channel.com
 DOMAIN-SUFFIX,furongedu.com
-DOMAIN-SUFFIX,furrybar.com
 DOMAIN-SUFFIX,furrychina.com
 DOMAIN-SUFFIX,furuijiaju.vip
 DOMAIN-SUFFIX,furuise.com
@@ -56651,7 +56650,6 @@ DOMAIN-SUFFIX,itiankong.com
 DOMAIN-SUFFIX,itiankong.net
 DOMAIN-SUFFIX,itianliao.com
 DOMAIN-SUFFIX,itiexue.net
-DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,itigergrowth.com
 DOMAIN-SUFFIX,itigergrowtha.com
 DOMAIN-SUFFIX,itigerup.com
@@ -63604,7 +63602,6 @@ DOMAIN-SUFFIX,kovemoto.com
 DOMAIN-SUFFIX,kowa-dental.com
 DOMAIN-SUFFIX,kowa103.com
 DOMAIN-SUFFIX,kowloonhospital.com
-DOMAIN-SUFFIX,kox.moe
 DOMAIN-SUFFIX,koyuki.cc
 DOMAIN-SUFFIX,kpblw.com
 DOMAIN-SUFFIX,kpbyd.com
@@ -72139,7 +72136,6 @@ DOMAIN-SUFFIX,mowan123.com
 DOMAIN-SUFFIX,moweather.com
 DOMAIN-SUFFIX,mowgz.com
 DOMAIN-SUFFIX,mowowo.com
-DOMAIN-SUFFIX,mox.moe
 DOMAIN-SUFFIX,moxfive.xyz
 DOMAIN-SUFFIX,moxiai.com
 DOMAIN-SUFFIX,moxian.com
@@ -72938,7 +72934,6 @@ DOMAIN-SUFFIX,mypharma.com
 DOMAIN-SUFFIX,mypian.com
 DOMAIN-SUFFIX,mypiao.com
 DOMAIN-SUFFIX,mypiaojia.com
-DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,mypitaya.com
 DOMAIN-SUFFIX,mypity.com
 DOMAIN-SUFFIX,mypiwik.com
@@ -98285,7 +98280,6 @@ DOMAIN-SUFFIX,ustarl.com
 DOMAIN-SUFFIX,ustbtc.com
 DOMAIN-SUFFIX,ustc.edu
 DOMAIN-SUFFIX,ustcers.com
-DOMAIN-SUFFIX,ustclug.org
 DOMAIN-SUFFIX,ustui.com
 DOMAIN-SUFFIX,usuredata.com
 DOMAIN-SUFFIX,usuuu.com
@@ -99293,7 +99287,6 @@ DOMAIN-SUFFIX,voidking.com
 DOMAIN-SUFFIX,voip366.com
 DOMAIN-SUFFIX,vojs.tv
 DOMAIN-SUFFIX,vokop.com
-DOMAIN-SUFFIX,vol.moe
 DOMAIN-SUFFIX,volc-dns.com
 DOMAIN-SUFFIX,volc-dns.net
 DOMAIN-SUFFIX,volc-dns.pub
@@ -107114,6 +107107,7 @@ DOMAIN-SUFFIX,xn--4xup5j.com
 DOMAIN-SUFFIX,xn--54q23ckxiyx0e.com
 DOMAIN-SUFFIX,xn--54q249denfzw9a.net
 DOMAIN-SUFFIX,xn--54q40czz0g7xp.com
+DOMAIN-SUFFIX,xn--55qw42g
 DOMAIN-SUFFIX,xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
 DOMAIN-SUFFIX,xn--55qwa79fh6ku8czve.com
 DOMAIN-SUFFIX,xn--55qx2ag79c1iq.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-18 02:07:32
+# UPDATED: 2025-08-26 02:08:01
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31575
+# DOMAIN-SUFFIX: 31588
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31838
+# TOTAL: 31851
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -9566,6 +9566,7 @@ payload:
   - DOMAIN-SUFFIX,ggoogle.com
   - DOMAIN-SUFFIX,ggpds.com
   - DOMAIN-SUFFIX,ggsrv.com
+  - DOMAIN-SUFFIX,gh.io
   - DOMAIN-SUFFIX,ghbi.ir
   - DOMAIN-SUFFIX,ghettotube.com
   - DOMAIN-SUFFIX,ghil.ac.uk
@@ -9616,6 +9617,7 @@ payload:
   - DOMAIN-SUFFIX,girlsxxx.net
   - DOMAIN-SUFFIX,gisplanning.com
   - DOMAIN-SUFFIX,git-scm.com
+  - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
@@ -12965,6 +12967,7 @@ payload:
   - DOMAIN-SUFFIX,keepyourcad.com
   - DOMAIN-SUFFIX,keiba.net
   - DOMAIN-SUFFIX,keighleycollege.ac.uk
+  - DOMAIN-SUFFIX,kemono.cr
   - DOMAIN-SUFFIX,kemono.party
   - DOMAIN-SUFFIX,kemono.su
   - DOMAIN-SUFFIX,kendal.ac.uk
@@ -15292,6 +15295,7 @@ payload:
   - DOMAIN-SUFFIX,moviesneek.com
   - DOMAIN-SUFFIX,movinghistory.ac.uk
   - DOMAIN-SUFFIX,movingmedicine.ac.uk
+  - DOMAIN-SUFFIX,mox.moe
   - DOMAIN-SUFFIX,moxing.mobi
   - DOMAIN-SUFFIX,moxing.news
   - DOMAIN-SUFFIX,moystoys.com
@@ -15577,6 +15581,7 @@ payload:
   - DOMAIN-SUFFIX,mypearsonenglish.ch
   - DOMAIN-SUFFIX,mypearsonshop.com.mx
   - DOMAIN-SUFFIX,mypearsonshop.mx
+  - DOMAIN-SUFFIX,mypikpak.net
   - DOMAIN-SUFFIX,myplace.ac.uk
   - DOMAIN-SUFFIX,mypornads.com
   - DOMAIN-SUFFIX,mypornadviser.com
@@ -15733,7 +15738,6 @@ payload:
   - DOMAIN-SUFFIX,naughtysophie.com
   - DOMAIN-SUFFIX,naughtytugs.com
   - DOMAIN-SUFFIX,naughtywomenpics.com
-  - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,naver.me
   - DOMAIN-SUFFIX,naver.net
   - DOMAIN-SUFFIX,naverads.com
@@ -23290,6 +23294,7 @@ payload:
   - DOMAIN-SUFFIX,vodafone.it
   - DOMAIN-SUFFIX,voila.ac.uk
   - DOMAIN-SUFFIX,vokevr.com
+  - DOMAIN-SUFFIX,vol.moe
   - DOMAIN-SUFFIX,volstudy.ac.uk
   - DOMAIN-SUFFIX,volvo-truck.nl
   - DOMAIN-SUFFIX,volvo.ca
@@ -26448,6 +26453,7 @@ payload:
   - DOMAIN-SUFFIX,cotweet.com
   - DOMAIN-SUFFIX,counter.social
   - DOMAIN-SUFFIX,coursehero.com
+  - DOMAIN-SUFFIX,covenantswatch.org.tw
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,cpj.org
   - DOMAIN-SUFFIX,cpu-monkey.com
@@ -26604,6 +26610,7 @@ payload:
   - DOMAIN-SUFFIX,delicious.com
   - DOMAIN-SUFFIX,democrats.org
   - DOMAIN-SUFFIX,demosisto.hk
+  - DOMAIN-SUFFIX,deno.dev
   - DOMAIN-SUFFIX,depositphotos.com
   - DOMAIN-SUFFIX,desc.se
   - DOMAIN-SUFFIX,desipro.de
@@ -27265,6 +27272,8 @@ payload:
   - DOMAIN-SUFFIX,fubo.tv
   - DOMAIN-SUFFIX,fucd.com
   - DOMAIN-SUFFIX,fuchsia.dev
+  - DOMAIN-SUFFIX,fuckccp.com
+  - DOMAIN-SUFFIX,fuckccp.xyz
   - DOMAIN-SUFFIX,fuckcnnic.net
   - DOMAIN-SUFFIX,fuckgfw.org
   - DOMAIN-SUFFIX,fuckgfw233.org
@@ -27281,6 +27290,7 @@ payload:
   - DOMAIN-SUFFIX,furhhdl.org
   - DOMAIN-SUFFIX,furinkan.com
   - DOMAIN-SUFFIX,furl.net
+  - DOMAIN-SUFFIX,furrybar.com
   - DOMAIN-SUFFIX,futurechinaforum.org
   - DOMAIN-SUFFIX,futuremessage.org
   - DOMAIN-SUFFIX,fux.com
@@ -28090,6 +28100,7 @@ payload:
   - DOMAIN-SUFFIX,itemfix.com
   - DOMAIN-SUFFIX,itgonglun.com
   - DOMAIN-SUFFIX,ithome.com.tw
+  - DOMAIN-SUFFIX,itiger.com
   - DOMAIN-SUFFIX,itsaol.com
   - DOMAIN-SUFFIX,itshidden.com
   - DOMAIN-SUFFIX,itsky.it
@@ -28939,6 +28950,7 @@ payload:
   - DOMAIN-SUFFIX,nationsonline.org
   - DOMAIN-SUFFIX,nationwide.com
   - DOMAIN-SUFFIX,naughtyamerica.com
+  - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,naver.jp
   - DOMAIN-SUFFIX,navy.mil
   - DOMAIN-SUFFIX,naweeklytimes.com
@@ -30901,6 +30913,7 @@ payload:
   - DOMAIN-SUFFIX,udn.com.tw
   - DOMAIN-SUFFIX,udnbkk.com
   - DOMAIN-SUFFIX,udndata.com
+  - DOMAIN-SUFFIX,udomain.hk
   - DOMAIN-SUFFIX,uforadio.com.tw
   - DOMAIN-SUFFIX,ufreevpn.com
   - DOMAIN-SUFFIX,ugo.com

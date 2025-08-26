@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-18 02:07:52
+# UPDATED: 2025-08-26 02:08:22
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6486
+# DOMAIN-SUFFIX: 6495
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6618
+# TOTAL: 6627
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -1218,6 +1218,7 @@ payload:
   - DOMAIN-SUFFIX,cotweet.com
   - DOMAIN-SUFFIX,counter.social
   - DOMAIN-SUFFIX,coursehero.com
+  - DOMAIN-SUFFIX,covenantswatch.org.tw
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,cpj.org
   - DOMAIN-SUFFIX,cpu-monkey.com
@@ -1376,6 +1377,7 @@ payload:
   - DOMAIN-SUFFIX,demo.opera-mini.net
   - DOMAIN-SUFFIX,democrats.org
   - DOMAIN-SUFFIX,demosisto.hk
+  - DOMAIN-SUFFIX,deno.dev
   - DOMAIN-SUFFIX,depositphotos.com
   - DOMAIN-SUFFIX,derekhsu.homeip.net
   - DOMAIN-SUFFIX,desc.se
@@ -1459,6 +1461,7 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN-SUFFIX,docs.cfw.lbyczf.com
+  - DOMAIN-SUFFIX,docs.deno.com
   - DOMAIN-SUFFIX,docs.new
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentingreality.com
@@ -2042,6 +2045,8 @@ payload:
   - DOMAIN-SUFFIX,fubo.tv
   - DOMAIN-SUFFIX,fucd.com
   - DOMAIN-SUFFIX,fuchsia.dev
+  - DOMAIN-SUFFIX,fuckccp.com
+  - DOMAIN-SUFFIX,fuckccp.xyz
   - DOMAIN-SUFFIX,fuckcnnic.net
   - DOMAIN-SUFFIX,fuckgfw.org
   - DOMAIN-SUFFIX,fuckgfw233.org
@@ -2058,6 +2063,7 @@ payload:
   - DOMAIN-SUFFIX,furhhdl.org
   - DOMAIN-SUFFIX,furinkan.com
   - DOMAIN-SUFFIX,furl.net
+  - DOMAIN-SUFFIX,furrybar.com
   - DOMAIN-SUFFIX,futurechinaforum.org
   - DOMAIN-SUFFIX,futuremessage.org
   - DOMAIN-SUFFIX,fux.com
@@ -2872,6 +2878,7 @@ payload:
   - DOMAIN-SUFFIX,itemfix.com
   - DOMAIN-SUFFIX,itgonglun.com
   - DOMAIN-SUFFIX,ithome.com.tw
+  - DOMAIN-SUFFIX,itiger.com
   - DOMAIN-SUFFIX,itsaol.com
   - DOMAIN-SUFFIX,itshidden.com
   - DOMAIN-SUFFIX,itsky.it
@@ -3725,6 +3732,7 @@ payload:
   - DOMAIN-SUFFIX,nationsonline.org
   - DOMAIN-SUFFIX,nationwide.com
   - DOMAIN-SUFFIX,naughtyamerica.com
+  - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,naver.jp
   - DOMAIN-SUFFIX,navy.mil
   - DOMAIN-SUFFIX,naweeklytimes.com
@@ -5699,6 +5707,7 @@ payload:
   - DOMAIN-SUFFIX,udn.com.tw
   - DOMAIN-SUFFIX,udnbkk.com
   - DOMAIN-SUFFIX,udndata.com
+  - DOMAIN-SUFFIX,udomain.hk
   - DOMAIN-SUFFIX,uforadio.com.tw
   - DOMAIN-SUFFIX,ufreevpn.com
   - DOMAIN-SUFFIX,ugo.com

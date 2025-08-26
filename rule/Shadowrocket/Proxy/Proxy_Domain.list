@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-18 02:07:52
+# UPDATED: 2025-08-26 02:08:22
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6486
+# DOMAIN-SUFFIX: 6495
 # IP-CIDR: 97
 # USER-AGENT: 8
-# TOTAL: 6626
+# TOTAL: 6635
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -1208,6 +1208,7 @@
 .cotweet.com
 .counter.social
 .coursehero.com
+.covenantswatch.org.tw
 .coze.com
 .cpj.org
 .cpu-monkey.com
@@ -1366,6 +1367,7 @@
 .demo.opera-mini.net
 .democrats.org
 .demosisto.hk
+.deno.dev
 .depositphotos.com
 .derekhsu.homeip.net
 .desc.se
@@ -1449,6 +1451,7 @@
 .docker.io
 .dockerhub.com
 .docs.cfw.lbyczf.com
+.docs.deno.com
 .docs.new
 .doctorvoice.org
 .documentingreality.com
@@ -2032,6 +2035,8 @@
 .fubo.tv
 .fucd.com
 .fuchsia.dev
+.fuckccp.com
+.fuckccp.xyz
 .fuckcnnic.net
 .fuckgfw.org
 .fuckgfw233.org
@@ -2048,6 +2053,7 @@
 .furhhdl.org
 .furinkan.com
 .furl.net
+.furrybar.com
 .futurechinaforum.org
 .futuremessage.org
 .fux.com
@@ -2862,6 +2868,7 @@
 .itemfix.com
 .itgonglun.com
 .ithome.com.tw
+.itiger.com
 .itsaol.com
 .itshidden.com
 .itsky.it
@@ -3715,6 +3722,7 @@
 .nationsonline.org
 .nationwide.com
 .naughtyamerica.com
+.naver.com
 .naver.jp
 .navy.mil
 .naweeklytimes.com
@@ -5689,6 +5697,7 @@
 .udn.com.tw
 .udnbkk.com
 .udndata.com
+.udomain.hk
 .uforadio.com.tw
 .ufreevpn.com
 .ugo.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-18 02:07:32
+# UPDATED: 2025-08-26 02:08:01
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31575
+# DOMAIN-SUFFIX: 31588
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31838
+# TOTAL: 31851
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -9565,6 +9565,7 @@ login.microsoftonline.com
 .ggoogle.com
 .ggpds.com
 .ggsrv.com
+.gh.io
 .ghbi.ir
 .ghettotube.com
 .ghil.ac.uk
@@ -9615,6 +9616,7 @@ login.microsoftonline.com
 .girlsxxx.net
 .gisplanning.com
 .git-scm.com
+.github.ai
 .github.blog
 .github.com
 .github.community
@@ -12964,6 +12966,7 @@ login.microsoftonline.com
 .keepyourcad.com
 .keiba.net
 .keighleycollege.ac.uk
+.kemono.cr
 .kemono.party
 .kemono.su
 .kendal.ac.uk
@@ -15291,6 +15294,7 @@ login.microsoftonline.com
 .moviesneek.com
 .movinghistory.ac.uk
 .movingmedicine.ac.uk
+.mox.moe
 .moxing.mobi
 .moxing.news
 .moystoys.com
@@ -15576,6 +15580,7 @@ login.microsoftonline.com
 .mypearsonenglish.ch
 .mypearsonshop.com.mx
 .mypearsonshop.mx
+.mypikpak.net
 .myplace.ac.uk
 .mypornads.com
 .mypornadviser.com
@@ -15732,7 +15737,6 @@ login.microsoftonline.com
 .naughtysophie.com
 .naughtytugs.com
 .naughtywomenpics.com
-.naver.com
 .naver.me
 .naver.net
 .naverads.com
@@ -23289,6 +23293,7 @@ login.microsoftonline.com
 .vodafone.it
 .voila.ac.uk
 .vokevr.com
+.vol.moe
 .volstudy.ac.uk
 .volvo-truck.nl
 .volvo.ca
@@ -26447,6 +26452,7 @@ login.microsoftonline.com
 .cotweet.com
 .counter.social
 .coursehero.com
+.covenantswatch.org.tw
 .coze.com
 .cpj.org
 .cpu-monkey.com
@@ -26603,6 +26609,7 @@ login.microsoftonline.com
 .delicious.com
 .democrats.org
 .demosisto.hk
+.deno.dev
 .depositphotos.com
 .desc.se
 .desipro.de
@@ -27264,6 +27271,8 @@ login.microsoftonline.com
 .fubo.tv
 .fucd.com
 .fuchsia.dev
+.fuckccp.com
+.fuckccp.xyz
 .fuckcnnic.net
 .fuckgfw.org
 .fuckgfw233.org
@@ -27280,6 +27289,7 @@ login.microsoftonline.com
 .furhhdl.org
 .furinkan.com
 .furl.net
+.furrybar.com
 .futurechinaforum.org
 .futuremessage.org
 .fux.com
@@ -28089,6 +28099,7 @@ login.microsoftonline.com
 .itemfix.com
 .itgonglun.com
 .ithome.com.tw
+.itiger.com
 .itsaol.com
 .itshidden.com
 .itsky.it
@@ -28938,6 +28949,7 @@ login.microsoftonline.com
 .nationsonline.org
 .nationwide.com
 .naughtyamerica.com
+.naver.com
 .naver.jp
 .navy.mil
 .naweeklytimes.com
@@ -30900,6 +30912,7 @@ login.microsoftonline.com
 .udn.com.tw
 .udnbkk.com
 .udndata.com
+.udomain.hk
 .uforadio.com.tw
 .ufreevpn.com
 .ugo.com
